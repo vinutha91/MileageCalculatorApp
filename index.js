@@ -28,3 +28,6 @@ function login() {
 
 // This is commit 1 change
 console.log('Commit 1 change')
+
+// This is commit 2 change
+console.log('Commit 2 change')
