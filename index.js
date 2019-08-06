@@ -25,3 +25,6 @@ function login() {
     // make an API call to login service
     return true;
 }
+
+// This is commit 1 change
+console.log('Commit 1 change')
